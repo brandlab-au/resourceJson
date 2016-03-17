@@ -1,14 +1,18 @@
 # This was the same as json-server repo
 
-## But it now needs to use  $resource 
-##### See comments in codes push 
+## But it now needs to use $resource  
+##### See comments in codes push, sorry i ran out of time again. 
 
-- Punam could you have a look at this it is the same as the other rep.
+- Punam I think best open old json and then see what I have done on this and slow install resource again .
 
-- [ ] seems to have a problme using the resource
-- <script src="../bower_components/angular-resource/angular-resource.min.js"></script> 
-- [ ] Once again needs to up date db.json form form    
+- scripts/app.js injected ngResource
+- scripts/controllers.js IndexController being used first
+- scripts/services.js using $resource
 
+
+- [ ] index.html not showing anything line 37
+- [ ] Was working untill started with bower init
+- [ ] Once again needs to up date db.json form form contact     
 
 
 ## Set up local server with json

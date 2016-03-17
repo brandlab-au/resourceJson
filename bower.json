@@ -1,10 +1,10 @@
 {
   "name": "y",
-  "homepage": "https://github.com/brandlab-au/json-server",
+  "homepage": "https://github.com/brandlab-au/resourceJson",
   "authors": [
     "Jon Mckenzies <jon@brandlab.co.uk>"
   ],
-  "description": "json",
+  "description": "like json poject",
   "main": "index",
   "moduleType": [],
   "keywords": [
