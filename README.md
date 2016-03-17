@@ -1,14 +1,14 @@
-# json-server
+# This was the same as json-server repo
 
-## Just need to push data to json form db.json 
-##### See comments in codes push working but not for data
+## But it now needs to use  $resource 
+##### See comments in codes push 
 
-- only id is being pushed see db.json bottom of page feedback, all below needed.
-- mychannel:"", firstName:"", lastName:"", agree:false, email:""
+- Punam could you have a look at this it is the same as the other rep.
 
-- [ ] contactus.html working
-- [ ] line 23 services.js http post    
-- [ ] line 65 to 75 controller.js not sending data to db.json
+- [ ] seems to have a problme using the resource
+- <script src="../bower_components/angular-resource/angular-resource.min.js"></script> 
+- [ ] Once again needs to up date db.json form form    
+
 
 
 ## Set up local server with json
