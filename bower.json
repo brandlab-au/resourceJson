@@ -1,0 +1,17 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/brandlab-au/json-server",
+  "authors": [
+    "Jon Mckenzies <jon@brandlab.co.uk>"
+  ],
+  "description": "json",
+  "main": "index",
+  "moduleType": [],
+  "keywords": [
+    "json"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-resource": "^1.5.1"
+  }
+}
